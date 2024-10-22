@@ -1,0 +1,19 @@
+.HEAD {
+    background-color: black;
+    height: 60px;
+    border: 5px,solid;
+}
+.home {
+    height: 20px;
+    font-style: oblique;
+}
+#web-name {
+    text-decoration: solid;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    height: 110px;
+    background-color: rgb(255, 251, 0);
+    color: blueviolet;
+}
