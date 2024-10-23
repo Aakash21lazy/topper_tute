@@ -47,6 +47,7 @@ a {
    
     color: white;
     border: 3px,black,solid;
+    display: block;
 }
 .sans {
     background-color:#A2D2DF;
