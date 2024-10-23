@@ -1,6 +1,6 @@
 #carouselExampleFade{
-    height: 500px;
-    width: 500px;
+    height: 600px;
+    width: 1200px;
 }
 h3 {
     width: 50px;
@@ -26,19 +26,11 @@ p {
 font-style: italic;
 color: aqua;
 }
-.syllabus {
-    background-color: palevioletred;
-    border: 3px,black;
-}
+  
 #h-head {
     background-color: black;
 }
-#sign-in {
-text-transform: capitalize;
-font-style: oblique;
-text-decoration: underline;
-background-color: aqua;
-}
+
 .pera {
     background-color: black;
     color: yellow;
@@ -46,5 +38,4 @@ background-color: aqua;
 a {
    
     color: white;
-    border: 3px,black,solid;
 }
