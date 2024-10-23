@@ -1,14 +1,4 @@
-#web-name {
-    text-decoration: solid;
-    font-weight: 600;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    width: 200px;
-    height: 50px;
-    background-color: rgb(255, 251, 0);
-    color: blueviolet;
-    border: 5px,solid;
-}
+
 h3 {
     width: 50px;
     height: 25px;
